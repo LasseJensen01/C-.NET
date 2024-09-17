@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35208.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opgave 1", "Lektion 2\Opgave 1.csproj", "{C89468EC-DED7-459C-944C-6AD418919E18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opgave 2", "Opgave 2\Opgave 2.csproj", "{D5031AAB-EB99-4452-8340-3FBFB3878BA6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opgave 3", "Opgave 3\Opgave 3.csproj", "{1D3A65ED-5EA6-49BF-ABA5-4DA9C46CAE0F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C89468EC-DED7-459C-944C-6AD418919E18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C89468EC-DED7-459C-944C-6AD418919E18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C89468EC-DED7-459C-944C-6AD418919E18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C89468EC-DED7-459C-944C-6AD418919E18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5031AAB-EB99-4452-8340-3FBFB3878BA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5031AAB-EB99-4452-8340-3FBFB3878BA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5031AAB-EB99-4452-8340-3FBFB3878BA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5031AAB-EB99-4452-8340-3FBFB3878BA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D3A65ED-5EA6-49BF-ABA5-4DA9C46CAE0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D3A65ED-5EA6-49BF-ABA5-4DA9C46CAE0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D3A65ED-5EA6-49BF-ABA5-4DA9C46CAE0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D3A65ED-5EA6-49BF-ABA5-4DA9C46CAE0F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF9E4BC4-8BE1-427F-9C0E-82CE149A698B}
+	EndGlobalSection
+EndGlobal

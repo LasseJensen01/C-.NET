@@ -1,0 +1,10 @@
+C:\Users\lasse\source\repos\Lektion01\Lektion01\bin\Debug\Lektion01.exe.config
+C:\Users\lasse\source\repos\Lektion01\Lektion01\bin\Debug\Lektion01.exe
+C:\Users\lasse\source\repos\Lektion01\Lektion01\bin\Debug\Lektion01.pdb
+C:\Users\lasse\source\repos\Lektion01\Lektion01\obj\Debug\OPG 1.csproj.AssemblyReference.cache
+C:\Users\lasse\source\repos\Lektion01\Lektion01\obj\Debug\OPG 1.csproj.CoreCompileInputs.cache
+C:\Users\lasse\source\repos\Lektion01\Lektion01\obj\Debug\Lektion01.exe
+C:\Users\lasse\source\repos\Lektion01\Lektion01\obj\Debug\Lektion01.pdb
+C:\Users\lasse\source\repos\Lektion01\Lektion01\bin\Debug\MyLibrary1.dll
+C:\Users\lasse\source\repos\Lektion01\Lektion01\bin\Debug\MyLibrary1.pdb
+C:\Users\lasse\source\repos\Lektion01\Lektion01\obj\Debug\OPG 1.csproj.Up2Date

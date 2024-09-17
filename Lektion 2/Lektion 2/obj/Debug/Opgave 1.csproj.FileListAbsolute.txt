@@ -1,0 +1,7 @@
+C:\Users\lasse\source\repos\Lektion 2\Lektion 2\bin\Debug\Lektion 2.exe.config
+C:\Users\lasse\source\repos\Lektion 2\Lektion 2\bin\Debug\Lektion 2.exe
+C:\Users\lasse\source\repos\Lektion 2\Lektion 2\bin\Debug\Lektion 2.pdb
+C:\Users\lasse\source\repos\Lektion 2\Lektion 2\obj\Debug\Opgave 1.csproj.AssemblyReference.cache
+C:\Users\lasse\source\repos\Lektion 2\Lektion 2\obj\Debug\Opgave 1.csproj.CoreCompileInputs.cache
+C:\Users\lasse\source\repos\Lektion 2\Lektion 2\obj\Debug\Lektion 2.exe
+C:\Users\lasse\source\repos\Lektion 2\Lektion 2\obj\Debug\Lektion 2.pdb
